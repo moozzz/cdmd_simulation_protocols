@@ -1,2 +1,2 @@
 # Simulation protocols
-Simulation protocols used in my publications
+Simulation protocols for reproducing some of the refinements from 'Automated cryo-EM structure refinement using correlation-driven molecular dynamics' (https://doi.org/10.7554/eLife.43542)
